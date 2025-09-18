@@ -50,7 +50,7 @@ Edited README.md to add the line “This is a line from RStudio”. Staged
 and committed successfully.
 
 **Anusree’s note:**  
-
+Staged and Committed.
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ and committed successfully.
 Push worked on the first try. No credential issues.
 
 **Anusree’s note:**  
-Type here
+Clicked Push. Worked with no issue.
 
 ------------------------------------------------------------------------
 
