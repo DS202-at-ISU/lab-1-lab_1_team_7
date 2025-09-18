@@ -31,7 +31,7 @@ We did **not** delete the repo at the end (step 12.7).
 Repo was created for us.
 
 **Anusree’s note:**  
-Type here
+Created.
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Type here
 Cloned with no issues!
 
 **Anusree’s note:**  
-Type here —
+Cloned via RStudio.
 
 ## Step 12.4 – Make local changes, save, commit
 
@@ -50,7 +50,7 @@ Edited README.md to add the line “This is a line from RStudio”. Staged
 and committed successfully.
 
 **Anusree’s note:**  
-Type here
+
 
 ------------------------------------------------------------------------
 
