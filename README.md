@@ -34,7 +34,9 @@ Repo was created for us.
 Created.
 
 **Som’s note:**  
-Already Created —
+Already Created
+
+------------------------------------------------------------------------
 
 ## Step 12.3 – Clone the repo via RStudio
 
@@ -42,7 +44,12 @@ Already Created —
 Cloned with no issues!
 
 **Anusree’s note:**  
-Cloned via RStudio. —
+Cloned via RStudio.
+
+**Som’s note:**  
+Cloned easily.
+
+------------------------------------------------------------------------
 
 ## Step 12.4 – Make local changes, save, commit
 
@@ -53,6 +60,9 @@ and committed successfully.
 **Anusree’s note:**  
 Committed and edited README.md as well.
 
+**Som’s note:**  
+Edited and going to commit after making all the changes
+
 ------------------------------------------------------------------------
 
 ## Step 12.5 – Push local changes to GitHub
@@ -62,6 +72,9 @@ Push worked on the first try. No credential issues.
 
 **Anusree’s note:**  
 Clicked push. No issues faced.
+
+**Som’s note:**  
+First push had no issues, will push again after all the changes.
 
 ------------------------------------------------------------------------
 
