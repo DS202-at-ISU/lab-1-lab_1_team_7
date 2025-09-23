@@ -34,6 +34,8 @@ Repo was created for us.
 **Anusree’s note:**   
 Created.
 
+**Som’s note:**  
+Already Created
 ---
 
 ## Step 12.3 – Clone the repo via RStudio

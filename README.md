@@ -33,7 +33,8 @@ Repo was created for us.
 **Anusree’s note:**  
 Created.
 
-------------------------------------------------------------------------
+**Som’s note:**  
+Already Created —
 
 ## Step 12.3 – Clone the repo via RStudio
 
@@ -41,7 +42,7 @@ Created.
 Cloned with no issues!
 
 **Anusree’s note:**  
-Cloned via RStudio.
+Cloned via RStudio. —
 
 ## Step 12.4 – Make local changes, save, commit
 
@@ -50,7 +51,7 @@ Edited README.md to add the line “This is a line from RStudio”. Staged
 and committed successfully.
 
 **Anusree’s note:**  
-Staged and Committed.
+Committed and edited README.md as well.
 
 ------------------------------------------------------------------------
 
@@ -60,7 +61,7 @@ Staged and Committed.
 Push worked on the first try. No credential issues.
 
 **Anusree’s note:**  
-Clicked Push. Worked with no issue.
+Clicked push. No issues faced.
 
 ------------------------------------------------------------------------
 
@@ -71,7 +72,7 @@ Refreshed GitHub page and saw the new line in README.md. Verified commit
 message was correct
 
 **Anusree’s note:**  
-Type here
+Refreshed.
 
 ------------------------------------------------------------------------
 
