@@ -85,6 +85,9 @@ Refreshed GitHub page and saw the new line in README.md. Verified commit message
 **Anusree’s note:**\
 Refreshed.
 
+**Som’s note:**\
+Completed with no issues.
+
 ------------------------------------------------------------------------
 
 ## Step 12.7 – Clean up

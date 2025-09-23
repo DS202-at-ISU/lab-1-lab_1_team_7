@@ -87,6 +87,9 @@ message was correct
 **Anusree’s note:**  
 Refreshed.
 
+**Som’s note:**  
+Completed with no issues.
+
 ------------------------------------------------------------------------
 
 ## Step 12.7 – Clean up
